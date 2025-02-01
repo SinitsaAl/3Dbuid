@@ -3,6 +3,6 @@ import styles from "./page.module.scss";
 
 export default function Home() {
   return (
-    <div></div>
+    <div>hui</div>
   );
 }
